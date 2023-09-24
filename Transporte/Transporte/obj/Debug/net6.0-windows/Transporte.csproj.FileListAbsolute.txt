@@ -1,0 +1,42 @@
+C:\Users\valen\source\repos\Transporte\Transporte\bin\Debug\net6.0-windows\Transporte.exe
+C:\Users\valen\source\repos\Transporte\Transporte\bin\Debug\net6.0-windows\Transporte.deps.json
+C:\Users\valen\source\repos\Transporte\Transporte\bin\Debug\net6.0-windows\Transporte.runtimeconfig.json
+C:\Users\valen\source\repos\Transporte\Transporte\bin\Debug\net6.0-windows\Transporte.dll
+C:\Users\valen\source\repos\Transporte\Transporte\bin\Debug\net6.0-windows\Transporte.pdb
+C:\Users\valen\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.AssemblyInfo.cs
+C:\Users\valen\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.dll
+C:\Users\valen\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\refint\Transporte.dll
+C:\Users\valen\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.pdb
+C:\Users\valen\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.genruntimeconfig.cache
+C:\Users\valen\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\ref\Transporte.dll
+C:\Users\valen\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.Vistas.FrmCargaYDescarga.resources
+C:\Users\valen\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.FrmMain.resources
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\bin\Debug\net6.0-windows\Transporte.exe
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\bin\Debug\net6.0-windows\Transporte.deps.json
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\bin\Debug\net6.0-windows\Transporte.runtimeconfig.json
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\bin\Debug\net6.0-windows\Transporte.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\bin\Debug\net6.0-windows\Transporte.pdb
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.Vistas.FrmCargaYDescarga.resources
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.FrmMain.resources
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.csproj.GenerateResource.cache
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.AssemblyInfo.cs
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.csproj.CopyComplete
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\obj\Debug\net6.0-windows\refint\Transporte.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.pdb
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.genruntimeconfig.cache
+C:\Users\valen\Desktop\Tecnicatura en Prog - 2023\Programación II\rep_progII\TUP1w3\Transporte\Transporte\obj\Debug\net6.0-windows\ref\Transporte.dll
